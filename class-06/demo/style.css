@@ -1,0 +1,47 @@
+body {
+    background-color:bisque;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    font-size: 75px;
+}
+
+nav {
+    border: solid black 1px;
+}
+
+ul {
+
+    text-align: center;
+}
+
+li {
+    border: solid black 3px;
+    display: inline;
+    background-color: #3fc12b;
+    padding: 10px;
+    margin: 80px; 
+}
+
+#main_yoda {
+    height: 300px;
+}
+
+.yoda {
+    width: 800px;
+}
+article {
+    text-align: center;
+}
+
+p {
+    color: green;
+    background-color: yellow;
+}
+
+h2{
+    color: purple;
+    text-align: center;
+}
